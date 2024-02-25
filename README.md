@@ -1,2 +1,2 @@
-# Data-Analysis-Project
+# How to master GitHub
 Explore Data
